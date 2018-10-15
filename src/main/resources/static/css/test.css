@@ -1,0 +1,38 @@
+﻿body{
+	background: #ececec;
+	padding-top:70px;
+}
+.head-word{
+	font:"微软雅黑";
+	font-size: 20px;
+	padding-top:50px;
+	margin-top:10px;
+	color:white;
+	cursor:pointer;
+}
+.navbar-head{
+	background: #474747;
+}
+a:hover{
+	color:black;
+	text-decoration: none;
+}
+a:VISITED{
+	color:black;
+	text-decoration: none;
+}
+.question_list{
+	margin-right:26px;
+}
+.question_list .question{
+	font-size: 21px;
+	margin-right: 30px;
+	font-weight: 600;
+}
+.question_list .question .delete{
+	padding-top:3px;
+	margin-left:25px;
+}
+.question_list .question .edit{
+	padding-top:3px;
+}

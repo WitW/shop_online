@@ -1,0 +1,38 @@
+body{
+	background: #ececec;
+	padding-top:70px;
+}
+.head-word{
+	font:"微软雅黑";
+	font-size: 20px;
+	padding-top:50px;
+	margin-top:10px;
+	color:white;
+	cursor:pointer;
+}
+.navbar-head{
+	background: #474747;
+}
+a:hover{
+	color:black;
+	text-decoration: none;
+}
+a:VISITED{
+	color:black;
+	text-decoration: none;
+}
+.resultList{
+	margin-right:20px;
+}
+.info{
+	font-size: 21px;
+	margin-right: 30px;
+	font-weight: 600;
+}
+.reward_info{
+	margin-left:200px;
+}
+.resultList-dou{
+	margin-right:200px;
+	
+}

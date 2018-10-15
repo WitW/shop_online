@@ -1,0 +1,104 @@
+body{
+	background: #ececec;
+	padding-top:70px;
+}
+.head-word{
+	font:"微软雅黑";
+	font-size: 20px;
+	padding-top:50px;
+	margin-top:10px;
+	color:white;
+	cursor: pointer;
+}
+.navbar-head{
+	background: #474747;
+}
+a:hover{
+	color:black;
+	text-decoration: none;
+}
+a:VISITED{
+	color:black;
+	text-decoration: none;
+}
+.add_class{
+	margin-left: 30px;
+}
+.add_class button{
+	outline: none;
+}
+.add_class .btn_add .word{
+	font-size:18px;
+}
+.add_class .add .btn_add .jpg{
+	font-size:18px;
+}
+.empty-box{
+	margin-left:13px;
+}
+.empty-box .img1{
+	margin-left:30px;
+	position: absolute;
+	z-index: 100;
+}
+.empty-box .img2{
+	margin-left:270px;
+	margin-top: 30px; 
+}
+.C_lass{
+	margin-top:10px;
+	margin-left: 30px;
+}
+.C_lass .show_class{
+	width:300px;
+    margin-right:30px; 
+	margin-bottom: 30px;
+}
+.show_class{
+	background:white;
+	height: 240px;
+}
+.show_class .cla_head{
+	height:100px;
+	background-image:url('../image/background.jpg');
+	padding:10px;
+}
+.class_name span{
+	font-size: 20px;
+	padding-top:10px;
+}
+.class_name .cla_name{
+	font-size: 25px;
+	cursor: pointer;
+}
+.class_name .delete{
+	padding-top:5px;
+	padding-left:20px;
+	cursor: pointer;
+}
+.class_name .edit{
+	padding-top:5px;
+	cursor: pointer;
+}
+.cla_head .actor{
+	margin-top:20px;
+	font-size:18px;
+	font-weight:600;
+}
+.cla_head .actor span{
+	font-weight:600;
+	color:red;
+}
+.cla_footer .homework{
+	padding-top:10px;
+	font-size:30px;
+}
+.class_info{
+	margin-top:50px;
+}
+.class_info .class_id{
+	font-weight: 600;
+}
+.class_info span{
+	font-size:20px;
+}

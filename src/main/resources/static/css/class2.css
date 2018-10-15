@@ -1,0 +1,93 @@
+body{
+	background: #ececec;
+	padding-top:54px;
+}
+.navbar-head{
+	background: #474747;
+}
+.head-word{
+	font:"微软雅黑";
+	font-size: 20px;
+	padding-top:50px;
+	margin-top:10px;
+	color:white;
+	cursor: pointer;
+}
+.class_info{
+	width:100%;
+	height:270px;
+	background-image: url('../image/background.jpg');
+	background-repeat: no-repeat;
+}
+.class_info .info{
+	margin: 0 auto;
+	width:50%;
+}
+.class_info .info .class_name{
+	font-family: "微软雅黑";
+	font-size: 70px;
+	padding-top: 35px;
+}
+.class_info .info .invitation_code{
+	font-family: "微软雅黑";
+	font-size:35px;
+	padding-top:10px;
+}
+.class_info .info .reset{
+	padding-top:7px;
+}
+.add_question{
+	padding-top:10px;
+	margin-left: 15px;
+	
+}
+.add_question button{
+	outline: none;
+	margin-bottom: 10px;
+}
+.add_question .btn_add .word{
+	font-size:18px;
+}
+.add_question .btn_add .jpg{
+	font-size:18px;
+}
+.main{
+	padding-top:10px;
+	width:100%;
+	height:500px;
+}
+.main .question{
+	margin:0 auto;
+	width:80%;
+	height: 500px;
+}
+.main .question .question_list{
+	margin-right:30px;
+	margin-left:13px;
+}
+.main .question .question_list .time{
+	color:#999;
+}
+.main .question .question_list span{
+	font-size:20px;
+}
+.panel-body .num{
+	font-weight: 800;
+}
+.main .question .question_list .test_name{
+	color:black;
+	cursor:pointer;
+}
+.question_list .delete{
+	padding-top:5px;
+	padding-left:25px;
+	padding-right:25px;
+}
+.question_list .edit{
+	padding-top:5px;
+	padding-left:25px;
+}
+.question_list .num span{
+	font-size:20px;
+	font-weight: 800;
+}
